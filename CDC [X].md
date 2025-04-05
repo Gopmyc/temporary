@@ -51,7 +51,7 @@ Le prestataire devra réaliser les éléments suivants :
 ---
 
 ## 4. Maquette Visuelle  
-Ci-dessous, la maquette visuelle représentant le rendu attendu du menu d'inventaire :  
+Ci-dessous, la maquette visuelle représentant le rendu attendu de [*REALISATION*] :  
 
 [*N/A*]
 
