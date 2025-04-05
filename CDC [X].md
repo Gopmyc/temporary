@@ -1,10 +1,10 @@
-# Cahier des charges - [COMMUNITY]
+# Cahier des charges - [*COMMUNITY*]
 
-**Cahier des charges pour la réalisation de [REALISATION]**  
+**Cahier des charges pour la réalisation de [*REALISATION*]**  
 
-- **Prestataire** : [PRESTATAIRE]  
-- **Date** :        [JJ/MM/AA]  
-- **Version** :     [VERSION] 
+- **Prestataire** : [*PRESTATAIRE*]  
+- **Date** :        [*JJ/MM/AA*]  
+- **Version** :     [*VERSION*] 
 
 ---
 
@@ -27,9 +27,9 @@
 ---
 
 ## 1. Contexte et Objectif de la Prestation  
-Le présent cahier des charges a pour objectif de définir les spécifications techniques et fonctionnelles pour la réalisation de [REALISATION] dans le cadre du projet communautaire **[COMMUNITY]**, sur le jeu **Garry's Mod**.  
+Le présent cahier des charges a pour objectif de définir les spécifications techniques et fonctionnelles pour la réalisation de [*REALISATION*] dans le cadre du projet communautaire **[*COMMUNITY*]**, sur le jeu **Garry's Mod**.  
 
-Le [REALISATION] doit être intégré directement dans le module existant et respecter les normes du projet pour garantir modularité et maintenance.
+Le [*REALISATION*] doit être intégré directement dans le module existant et respecter les normes du projet pour garantir modularité et maintenance.
 
 ---
 
@@ -44,7 +44,7 @@ Le prestataire devra réaliser les éléments suivants :
 
 ## 3. Normes et Fonctionnalités  
 - **Langage** : Exclusivement Lua, en utilisant les bibliothèques natives de Garry's Mod ([documentation officielle](https://wiki.facepunch.com/gmod/)).  
-- **Intégration** : [N/A]  
+- **Intégration** : [*N/A*]  
 - **Interactions prévues** :  
 	[...]
 
@@ -53,7 +53,7 @@ Le prestataire devra réaliser les éléments suivants :
 ## 4. Maquette Visuelle  
 Ci-dessous, la maquette visuelle représentant le rendu attendu du menu d'inventaire :  
 
-[N/A]
+[*N/A*]
 
 ---
 
@@ -65,12 +65,12 @@ Le prestataire devra livrer :
 ---
 
 ## 6. Délais de réalisation  
-**Date limite de livraison** : [N/A]  
+**Date limite de livraison** : [*N/A*]  
 
 ---
 
 ## 7. Budget et Conditions  
-**Modalités de paiement** : Paiement après validation finale par l'équipe technique de [COMMUNITY].  
+**Modalités de paiement** : Paiement d'un accompte a hauteur de *50%* avant realisation puis paiment finale après validation par l'équipe technique de [*COMMUNITY*].  
 
 ---
 
@@ -110,10 +110,10 @@ Le prestataire cède tous les droits d'exploitation des créations réalisées a
 |-------------------------------|-----------------------|-----------------------|  
 | Confidentialité               | Oui                   | Le prestataire doit garantir la non-divulgation. |  
 | Propriété Intellectuelle      | Oui                   | Droits cédés au commanditaire. |  
-| Non-concurrence               | Non                   | [N/A] |  
+| Non-concurrence               | Non                   | [*N/A*] |  
 | Modifications post-livraison  | Oui                   | Modifications mineures incluses. |  
 
 ---
 
 ## 14. Contact  
-Pour toute question, contactez l'équipe [COMMUNITY] via Discord.   
+Pour toute question, contactez l'équipe [*COMMUNITY*] via Discord.   
